@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("master text");
         System.out.println("push text");
         System.out.println("pull text");
+        System.out.println("push");
     }
 }
